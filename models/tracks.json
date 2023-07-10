@@ -1,0 +1,12 @@
+{
+  "file": "./models/tracks.json",
+  "tracks": [
+    {
+      "title": "Solo",
+      "artist": "Future",
+      "duration": 4,
+      "_id": "1be55497-6aef-44c7-a8b5-87f0c9f0fc87",
+      "playlistid": "f9c093a9-e0b8-4cd6-84ee-9d92f5f6b26f"
+    }
+  ]
+}
